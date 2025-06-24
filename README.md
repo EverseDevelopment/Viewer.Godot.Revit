@@ -1,6 +1,6 @@
 # IFC & Point cloud viewer
 
-[<img src="https://s3.us-east-1.amazonaws.com/everse.assets/GithubReadme/GodotRevit.png" width="443" height="209">](https://github.com/EverseDevelopment/Viewer.Godot.Revit/wiki)
+[<img src="https://s3.us-east-1.amazonaws.com/everse.assets/GithubReadme/GodotRevit.png">](https://github.com/EverseDevelopment/Viewer.Godot.Revit/wiki)
 <br/>
 
 # Demo
